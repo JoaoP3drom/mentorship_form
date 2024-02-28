@@ -6,9 +6,9 @@
 
 body::before {
   content: '';
-  width: 100vw;
+  width: 100vh;
   background-color: #293241;
-  height: 461px;
+  height: 462px;
   position: absolute;
   z-index: -1;
   top: 0;
